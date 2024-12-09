@@ -19,7 +19,7 @@ In this dataset, we are given a plethora of information that highlights every de
 
 Due to the great wealth of information from this dataset, I decided to seperate all categories except for arrest id, arrest date, and perpetrator information into its own tables. This is widely known as normalization; the database is in third normal form, as there are no transitive or partial dependencies. Below is the ER Diagram of this database: 
 
-<img src="/assets/images/NYPD_DB_Design.png" alt='image' width='500' height='300'>
+<img src="/assets/images/NYPD_DB_Design.png" alt='image' width='500' height='400'>
 
 ## Findings
 Our queries are aimed to find demographic trends in arrests, which includes age group, borough, and level of offense.
