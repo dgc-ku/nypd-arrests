@@ -14,7 +14,7 @@ In this dataset, we are given a plethora of information that highlights every de
 - Specific Crime Code (more in depth than general)
 - Specific Crime Description
 - Level of Offense (Misdemeanor, Felony, or Violation)
-- Borough (of the arrest)
+- Borough (where the arrest was made)
 - Jurisdiction responsible for the arrest (Patrol, Transit, Housing, or Non-NYPD)
 - Precinct (that made the arrest)
 - Perpetrator Age Range
