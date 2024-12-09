@@ -21,7 +21,7 @@ In this dataset, we are given a plethora of information that highlights every de
 - Perpetrator Sex
 - Perpetrator Race
 
-Due to the great wealth of information from this dataset, I decided to seperate all categories except for arrest id, arrest date, and perpetrator information into its own tables. Below is the ER Diagram of this database: 
+Due to the great wealth of information from this dataset, I decided to seperate all categories except for arrest id, arrest date, and perpetrator information into its own tables. This is widely known as normalization; the database is in third normal form, as there are no transitive or partial dependencies. Below is the ER Diagram of this database: 
 ![DB Design](/assets/images/NYPD_DB_Design.png)
 
 
