@@ -7,19 +7,15 @@ What if there was a centralized and reliable way to accurately track each arrest
 
 ## Database Design
 In this dataset, we are given a plethora of information that highlights every detail of an arrest. In each arrest, we are given the:
-- An Arrest ID (Unique for each arrest)
+- Arrest ID (Unique for each arrest)
 - Arrest Date
-- General Crime Code
-- General Crime Description
-- Specific Crime Code (more in depth than general)
-- Specific Crime Description
+- General Crime Code and Description
+- Specific Crime Code and Description (more in depth than general)
 - Level of Offense (Misdemeanor, Felony, or Violation)
 - Borough (where the arrest was made)
 - Jurisdiction responsible for the arrest (Patrol, Transit, Housing, or Non-NYPD)
 - Precinct (that made the arrest)
-- Perpetrator Age Range
-- Perpetrator Sex
-- Perpetrator Race
+- Perpetrator Age Range, Sex, Race
 
 Due to the great wealth of information from this dataset, I decided to seperate all categories except for arrest id, arrest date, and perpetrator information into its own tables. This is widely known as normalization; the database is in third normal form, as there are no transitive or partial dependencies. Below is the ER Diagram of this database: 
 ![DB Design](/assets/images/NYPD_DB_Design.png)
