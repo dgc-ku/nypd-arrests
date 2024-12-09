@@ -1,1 +1,4 @@
-# nypd-arrests
+# NYPD Arrest Database Research
+
+## Introduction
+As a born and raised Brooklynite, safety of all New Yorkers has always been an area of concern for my entire life. With what seems like never-ending stories about innocent lives lost everyday on the news, it feels like it's now part of our daily routine. It's become so second nature for New Yorkers to expect to hear of a crime happening in the city we love so much, but there doesn't seem to be a way where an average New Yorker like me can track all of them that have happened. What if there was a centralized and reliable way to accurately track each arrest through a database? I pitched this project idea to my classmates in CS 3200: Introduction to Databases, and we worked together to go through the database design process and most importantly draw conclusions from the arrests made in our dataset. At the time of project completion, this database focuses on NYPD arrest data from Janunary 1st, 2024 to September 30th, 2024. The original dataset can be found here: https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-fykc/about_data. 
