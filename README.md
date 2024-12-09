@@ -22,6 +22,6 @@ In this dataset, we are given a plethora of information that highlights every de
 - Perpetrator Race
 
 Due to the great wealth of information from this dataset, I decided to seperate all categories except for arrest id, arrest date, and perpetrator information into its own tables. Below is the ER Diagram of this database: 
-![DB Design](/assets/images/NYPD DB Design.png)
+![DB Design](/assets/images/NYPD%DB%Design.png)
 
 
