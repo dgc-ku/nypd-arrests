@@ -25,5 +25,6 @@ Due to the great wealth of information from this dataset, I decided to seperate 
 Our queries are aimed to find demographic trends in arrests, which includes age group, borough, and level of offense.
 Below are some of our findings. These visualizations were created by me using Python.
 
+![Percentage Arrests](/arrests/images/borough_arrest_percentage.png)
 
 
