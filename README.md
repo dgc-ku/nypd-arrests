@@ -27,6 +27,8 @@ Below are some of our findings. These visualizations were created by me using Py
 
 ![Percentage Arrests](/assets/images/borough_arrest_percentage.png)
 
+![Age Group Distribution](/assets/images/crime_age_group_distribution.png)
 
+![Age Group Distribution with Borough](/assets/images/crime_age_group_with_borough.png)
 
 
