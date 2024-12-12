@@ -35,4 +35,15 @@ Below are some of our findings. These visualizations were created by me using Py
 
 ![Geopandas Viz](/assets/images/nypd_geo_viz.png)
 
+## Conclusion and Future Work
+Based on the visualizations, we noticed the following:
+- Brooklyn has the most arrests in the city, coming in at 28%
+- The young adult age group (25-44) make up most of the arrests in NYC, with most of them coming from Brooklyn
+- Misdemeanors make up the most of the offenses, with the most coming from Brooklyn
+- Top crimes in the city are coming from Midtown, South Bronx, and neighborhoods in East New York
+
+It's pretty clear that more needs to be done in these neighborhoods to decrease crime, as these areas have long been known to have high crime rates. With this project, I hope that this project provides more awareness that change in both policy and social life is needed to protect the city of over eight million New Yorkers. Although there are many factors, examples of change include increasing policing in places like subway stations and streets at night, addressing the illegal possession of guns, and creating awareness of mental health resources that is available to every New Yorker.
+
+Future work for this project includes examining the change in crime demographics over the last decade, as that can give us a better idea of what areas have been improved on and which still need more work.
+
 
