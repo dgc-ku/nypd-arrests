@@ -31,4 +31,6 @@ Below are some of our findings. These visualizations were created by me using Py
 
 ![Age Group Distribution with Borough](/assets/images/crime_age_group_with_borough.png)
 
+![Level of Offense with Borough](/assets/images/level_of_offense_borough.png)
+
 
