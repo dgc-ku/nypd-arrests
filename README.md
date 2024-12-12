@@ -44,6 +44,6 @@ Based on the visualizations, we noticed the following:
 
 It's pretty clear that more needs to be done in these neighborhoods to decrease crime, as these areas have long been known to have high crime rates. With this project, I hope that this project provides more awareness that change in both policy and social life is needed to protect the city of over eight million New Yorkers. Although there are many factors, examples of change include increasing policing in places like subway stations and streets at night, addressing the illegal possession of guns, and creating awareness of mental health resources that is available to every New Yorker.
 
-Future work for this project includes examining the change in crime demographics over the last decade, as that can give us a better idea of what areas have been improved on and which still need more work.
+Future work for this project includes examining the change in crime demographics over the last decade, as that can give us a better idea of what areas have been improved upon and which still need more work. It would also be interesting to see how the age group demographic has changed, if at all, as it would be natural to assume that younger age groups tend to commit more crimes than older groups. 
 
 
