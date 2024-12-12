@@ -33,4 +33,6 @@ Below are some of our findings. These visualizations were created by me using Py
 
 ![Level of Offense with Borough](/assets/images/level_of_offense_borough.png)
 
+![Geopandas Viz](/assets/images/nypd_geo_viz.png)
+
 
