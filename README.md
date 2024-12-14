@@ -46,4 +46,5 @@ It's pretty clear that more needs to be done in these neighborhoods to decrease 
 
 Future work for this project includes examining the change in crime demographics over the last decade, as that can give us a better idea of what areas have been improved upon and which still need more work. It would also be interesting to see how the age group demographic has changed, if at all, as it would be natural to assume that younger age groups tend to commit more crimes than older groups. 
 
-
+## Acknowledgements
+Special thanks to my classmates in CS 3200 for making this project come to life: Natalie Kwong, Sini Luo, Jiaqiang (Arnold) Wang, and Victor Zheng
